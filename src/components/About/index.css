@@ -1,0 +1,12 @@
+.paragraph3 {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.for-flex3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #12022f;
+}
